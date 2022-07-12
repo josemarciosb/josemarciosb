@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey, what's up? My name's José Marcio, I am developer 👋
 
-<!--
-**josemarciosb/josemarciosb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓   Degree in Information Technology
+- 💻   Specialization in Web System Development
+- 💼   Workin as back-end developer
 
-Here are some ideas to get you started:
+You also can find me on..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a targe="_blank" href="https://www.linkedin.com/in/jose-marcio-britto/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a targe="_blank" href="https://www.instagram.com/maarciobritto/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  
+  
+  
+</div>
