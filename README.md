@@ -2,7 +2,7 @@
 
 - 🎓   Degree in Information Technology
 - 💻   Specialization in Web System Development
-- 💼   Workin as back-end developer
+- 💼   Working as back-end developer
 - 💡    Clean Code fan
 
 **You also can find me on..**
