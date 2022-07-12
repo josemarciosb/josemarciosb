@@ -27,7 +27,8 @@
 </div>
 
 <br>
-**some of my skills**
+
+**Some of my skills**
 <div style="display: inline_block">
    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
@@ -59,7 +60,11 @@
    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
 </div>
-       
+<br>
 
-![Snake animation](https://github.com/josemarciosb/josemarciosb/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/josemarciosb/josemarciosb/blob/output/github-contribution-grid-snake.svg)
+ 
+ <div id="header" align="center">
+  <img src="https://miro.medium.com/max/800/0*VV3Nmxgv3KX4sLhr.gif" width="300"/>
+</div>
                                                                                                                
